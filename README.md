@@ -26,4 +26,8 @@ A full-stack recipe-sharing platform where users can add, explore, and manage re
 ![Login Page](screenshots/breakfast_recipe.png)
 
 ### 🔑 Dessert Page
-![Login Page](screenshots/Dinner_recipe.png)
+![Dessert Page](screenshots/Dinner_recipe.png)
+
+### 🔑 View Full Recipe Page
+![Login Page](screenshots/detail.png)
+
