@@ -1,0 +1,33 @@
+.add-form {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+.add-form input,
+.add-form textarea,
+.add-form select {
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.add-form button {
+  width: 100%;
+  padding: 12px;
+  background: #fc4a1a;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.add-form button:hover {
+  background: #f7b733;
+}

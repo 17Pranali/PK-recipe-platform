@@ -1,0 +1,20 @@
+.home {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 15px;
+}
+
+.home h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home input {
+  display: block;
+  margin: 0 auto 30px auto;
+  padding: 12px;
+  width: 90%;
+  max-width: 400px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
